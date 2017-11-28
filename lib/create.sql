@@ -3,6 +3,7 @@ create table bears (
   name TEXT,
   age INTEGER,
   gender CHAR(1),
-  color TEXT, 
-  temperament TEXT
+  color TEXT,
+  temperament TEXT,
+  alive BOOLEAN
 );
