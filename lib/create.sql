@@ -3,5 +3,6 @@ create table bears (
   name TEXT,
   age INTEGER,
   gender CHAR(1),
-  color TEXT
+  color TEXT, 
+  temperament TEXT
 );
